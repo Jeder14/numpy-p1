@@ -1,2 +1,2 @@
-# NumPy---proyecto1
+# NumPy-proyecto1
 Numpy: análisis numérico eficiente con Python
